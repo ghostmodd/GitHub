@@ -1,0 +1,43 @@
+@import url(../blocks/root/root.css);
+
+/* LOGO */
+@import url(../blocks/logo/logo.css);
+
+/* Section-title */
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_place/section-title_place_contacts.css);
+
+/* CARDS */
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__img/cards__img.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__text/cards__text.css);
+
+/* BUTTON */
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_size/button_size_m.css);
+@import url(../blocks/button/_size/button_size_l.css);
+@import url(../blocks/button/_size/button_size_xl.css);
+
+@import url(../blocks/button/_place/button_place_header.css);
+@import url(../blocks/button/_place/button_place_description.css);
+@import url(../blocks/button/_place/button_place_cards.css);
+
+/* HEADER */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu-link/header__menu-link.css);
+
+/* DESCRIPTION */
+@import url(../blocks/description/description.css);
+@import url(../blocks/description/__title/description__title.css);
+@import url(../blocks/description/__text/description__text.css);
+
+/* PRODUCTS */
+@import url(../blocks/products/products.css);
+
+/* CONTACTS */
+@import url(../blocks/contacts/contacts.css);
+@import url(../blocks/contacts/__text/contacts__text.css);

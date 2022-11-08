@@ -1,0 +1,7 @@
+.button_place_cards {
+    display: block;
+    background: #C60101;
+    border: 10px solid #C60101;
+
+    margin: 30px auto;
+}

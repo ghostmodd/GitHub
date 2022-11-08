@@ -1,0 +1,11 @@
+.description{
+    display: flex;
+    flex-direction: column;
+
+    width: 77.92vw;
+    min-height: 545px;
+    margin: 30px auto;
+    background: url(../../images/description.png);
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}

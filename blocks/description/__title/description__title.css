@@ -1,0 +1,10 @@
+.description__title{
+    display: flex;
+    width: 39.8vw;
+    line-height: 62.4px;
+    font-size: 52px;
+    font-weight: 900;
+    text-align: center;
+    color: white;
+    margin: 132px auto 0;
+}

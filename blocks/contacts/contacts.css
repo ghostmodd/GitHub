@@ -1,0 +1,15 @@
+.contacts{
+    display: flex;
+    width: 77.92vw;
+    margin: 146px auto 0;
+    border: 1px solid black;
+}
+
+.contacts__container{
+    display: flex;
+    flex-direction: column;
+}
+.contacts__image{
+    width: 474px;
+    height: 401px;
+}
